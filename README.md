@@ -1,5 +1,5 @@
-# experiment 2
-## aim-
+# Experiment 2
+## Aim-
 write a C++ program that determines the size of different data types.
 
 ## Theory-
@@ -58,7 +58,7 @@ int main()
 ## Explanation - 
 The program uses the sizeof operator to determine and display the size of various data types in bytes. It includes common data types such as int, float, double, char, and others.
 
-## output-
+## Output-
 ### 1.
 ![Screenshot 2024-07-30 224910](https://github.com/user-attachments/assets/30f8b52b-e3ff-429e-a68f-e46d004d86b1)
 ### 2.
