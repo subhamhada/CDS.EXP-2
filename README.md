@@ -90,6 +90,7 @@ The program uses the sizeof operator to determine and display the size of variou
 ### 2.
 ![Screenshot 2024-07-30 225050](https://github.com/user-attachments/assets/444ab374-1c7f-4100-af10-846ba0a8464a)
 ### 3.
+![Screenshot 2024-07-31 100404](https://github.com/user-attachments/assets/af8c1443-8f0a-4b65-b127-50ad76488a55)
 
 ## Conclusion - 
 This program helps in understanding how much memory is allocated for different data types, which is important for writing efficient and optimized code.
