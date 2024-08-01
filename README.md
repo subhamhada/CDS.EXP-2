@@ -1,6 +1,6 @@
 # Experiment 2
 ## Aim-
-write a C++ program that determines the size of different data types.
+To study and implement C++ program(Data types)
 
 ## Theory-
 Understanding the size of various data types is crucial for memory management and optimization in programming. 
