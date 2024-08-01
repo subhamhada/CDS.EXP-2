@@ -31,6 +31,29 @@ The range of values for a 64-bit double is roughly from \(5 \times 10^{-324}\) t
 
 Doubles support all the same arithmetic operations as floats (addition, subtraction, multiplication, division).
 
+## Char dat type:-
+The char data type is used to represent single characters.
+
+Generally, a char is 1 byte (8 bits), capable of representing 256 different values (0-255).
+
+Characters are often used as the building blocks of strings, with arrays or sequences of char values representing strings.
+
+The char data type is fundamental for text processing, file I/O operations, and any context where individual characters need to be manipulated or analyzed.
+
+
+# Auto data type:-
+The auto keyword is a feature in C++ (introduced in C++11) that allows the compiler to automatically deduce the type of a variable from its initializer.
+
+The compiler determines the type of the variable based on the expression used to initialize it.
+
+It Reduces the verbosity of code, especially with complex type declarations.
+
+The auto keyword is a powerful tool in C++ that can lead to cleaner, more maintainable code when used judiciously.
+
+## Register data type:-
+The register keyword in C and C++ is used to suggest to the compiler that a particular variable should be stored in a CPU register, if possible, for faster access. 
+
+
 
 ## Code - 
 ### 1.
