@@ -7,6 +7,31 @@ Understanding the size of various data types is crucial for memory management an
 Different data types (e.g., int,short int,long int,float, double,long double,bool,char,auto,register) occupy different amounts of memory.
 and checking of size of some data types given by user.
 
+## Int data type:-
+In programming, the int data type is used to represent integer values, which are whole numbers without a fractional part.
+
+For example:
+- In Python, the int type can represent arbitrarily large numbers, limited only by the amount of available memory, as Python automatically handles larger integers with its built-in int type.
+
+The int type is fundamental in programming for performing arithmetic operations, loops, indexing arrays, and more.
+
+## Float data type:-
+The float data type is used to represent real numbers with fractional parts, allowing for the representation of both whole and decimal numbers. 
+
+The range of values for a 32-bit float is roughly from \(1.4 \times 10^{-45}\) to \(3.4 \times 10^{38}\).
+
+Floats support arithmetic operations like addition, subtraction, multiplication, and division.
+
+Floats are widely used in scientific calculations, graphics, simulations, and any application requiring real-number arithmetic.
+
+## Double data type:-
+The double data type is used to represent double-precision floating-point numbers. It provides greater precision and a larger range than the float data type. Double-precision floating-point format is also based on the IEEE 754 standard, typically using 64 bits.
+
+The range of values for a 64-bit double is roughly from \(5 \times 10^{-324}\) to \(1.7 \times 10^{308}\).
+
+Doubles support all the same arithmetic operations as floats (addition, subtraction, multiplication, division).
+
+
 ## Code - 
 ### 1.
 ```
