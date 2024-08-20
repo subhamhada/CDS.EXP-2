@@ -41,7 +41,7 @@ Characters are often used as the building blocks of strings, with arrays or sequ
 The char data type is fundamental for text processing, file I/O operations, and any context where individual characters need to be manipulated or analyzed.
 
 
-# Auto data type:-
+## Auto data type:-
 The auto keyword is a feature in C++ (introduced in C++11) that allows the compiler to automatically deduce the type of a variable from its initializer.
 
 The compiler determines the type of the variable based on the expression used to initialize it.
